@@ -9,3 +9,5 @@ dataManager = DataManager(dataInput);
 
 dataInput.readData();
 dataManager.showInfo();
+
+print("Finish running. ");
